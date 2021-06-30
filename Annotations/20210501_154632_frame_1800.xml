@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20210501_154632_frame_1800.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/20210501_154632_frame_1800.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>284.6372881355932</xmin>
+        <ymin>280.92469879518075</ymin>
+        <xmax>343.6474576271186</xmax>
+        <ymax>508.2018072289157</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>344.5152542372881</xmin>
+        <ymin>284.394578313253</ymin>
+        <xmax>420.88135593220335</xmax>
+        <ymax>498.6596385542169</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>403.52542372881356</xmin>
+        <ymin>280.92469879518075</ymin>
+        <xmax>592.7050847457627</xmax>
+        <ymax>433.5993975903615</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>565.8033898305084</xmin>
+        <ymin>256.6355421686747</ymin>
+        <xmax>676.8813559322033</xmax>
+        <ymax>499.52710843373495</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>220.20180722891567</ymin>
+        <xmax>91.9864406779661</xmax>
+        <ymax>467.4307228915663</ymax>
+    </bndbox>
+</object>
+</annotation>

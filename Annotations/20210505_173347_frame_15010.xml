@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20210505_173347_frame_15010.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/20210505_173347_frame_15010.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>604.2685512367491</xmin>
+        <ymin>326.5326633165829</ymin>
+        <xmax>657.9623413085938</xmax>
+        <ymax>373.7695598602295</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>978.5434219845613</xmin>
+        <ymin>325.6281407035176</ymin>
+        <xmax>1150.643109540636</xmax>
+        <ymax>419.8869486190566</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>145.11746054066364</xmin>
+        <ymin>393.4673366834171</ymin>
+        <xmax>275.9010600706714</xmax>
+        <ymax>488.27565121291275</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1019.4770318021201</xmin>
+        <ymin>280.37374371859295</ymin>
+        <xmax>1089.13074204947</xmax>
+        <ymax>407.911432160804</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>184.53710247349824</xmin>
+        <ymin>363.58982412060305</ymin>
+        <xmax>229.76678445229683</xmax>
+        <ymax>470.3234924623116</ymax>
+    </bndbox>
+</object>
+</annotation>

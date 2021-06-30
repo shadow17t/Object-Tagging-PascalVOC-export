@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20210505_173347_frame_7310.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/20210505_173347_frame_7310.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>846.4468383789062</xmin>
+        <ymin>279.1909646987915</ymin>
+        <xmax>1071.3491821289062</xmax>
+        <ymax>483.2572889328003</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>729.2301177978516</xmin>
+        <ymin>302.6535129547119</ymin>
+        <xmax>788.3914947509766</xmax>
+        <ymax>425.6148147583008</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>246.16778133109264</xmin>
+        <ymin>335.33925554860184</ymin>
+        <xmax>370.79722163870986</xmax>
+        <ymax>532.7638190954774</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>232.48056537102474</xmin>
+        <ymin>382.5847989949749</ymin>
+        <xmax>454.1060070671378</xmax>
+        <ymax>549.016959798995</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>711.9151943462897</xmin>
+        <ymin>341.8812814070352</ymin>
+        <xmax>800.565371024735</xmax>
+        <ymax>439.5697236180905</ymax>
+    </bndbox>
+</object>
+</annotation>

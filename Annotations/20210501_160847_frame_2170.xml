@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20210501_160847_frame_2170.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/20210501_160847_frame_2170.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>768</xmin>
+        <ymin>320.5837408312958</ymin>
+        <xmax>896.4398625429553</xmax>
+        <ymax>398.92114914425423</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>480.3298969072165</xmin>
+        <ymin>335.5470660146699</ymin>
+        <xmax>561.2646048109966</xmax>
+        <ymax>406.8429095354523</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>329.89690721649487</xmin>
+        <ymin>329.38569682151586</ymin>
+        <xmax>433.70446735395194</xmax>
+        <ymax>414.7646699266503</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>170.66666666666666</xmin>
+        <ymin>337.3074572127139</ymin>
+        <xmax>240.16494845360825</xmax>
+        <ymax>545.033618581907</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>104.6872852233677</xmin>
+        <ymin>337.3074572127139</ymin>
+        <xmax>180.34364261168383</xmax>
+        <ymax>570.5592909535452</ymax>
+    </bndbox>
+</object>
+</annotation>

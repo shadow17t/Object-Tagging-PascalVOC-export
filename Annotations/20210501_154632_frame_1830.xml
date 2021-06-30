@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20210501_154632_frame_1830.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/20210501_154632_frame_1830.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>365.3423728813559</xmin>
+        <ymin>268.7801204819277</ymin>
+        <xmax>594.4406779661017</xmax>
+        <ymax>473.5030120481928</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>243.8508474576271</xmin>
+        <ymin>269.6475903614458</ymin>
+        <xmax>352.3254237288136</xmax>
+        <ymax>557.6475903614457</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>174.4271186440678</xmin>
+        <ymin>260.97289156626505</ymin>
+        <xmax>239.51186440677967</xmax>
+        <ymax>535.960843373494</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>214.12951807228916</ymin>
+        <xmax>60.74576271186441</xmax>
+        <ymax>489.11746987951807</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>122.3593220338983</xmin>
+        <ymin>249.69578313253012</ymin>
+        <xmax>181.3694915254237</xmax>
+        <ymax>371.14156626506025</ymax>
+    </bndbox>
+</object>
+</annotation>

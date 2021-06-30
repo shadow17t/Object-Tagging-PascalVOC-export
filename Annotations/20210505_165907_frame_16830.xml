@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20210505_165907_frame_16830.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/20210505_165907_frame_16830.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>824.3624877929686</xmin>
+        <ymin>321.314791403287</ymin>
+        <xmax>871.5280739161336</xmax>
+        <ymax>384.52075481414806</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>652.2814498933902</xmin>
+        <ymin>299.21302149178257</ymin>
+        <xmax>723.2409381663114</xmax>
+        <ymax>373.8527180783818</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>354.79744136460556</xmin>
+        <ymin>357.468394437421</ymin>
+        <xmax>410.2914001421464</xmax>
+        <ymax>494.9146649810367</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>428.46713021491786</ymin>
+        <xmax>225.61478322672352</xmax>
+        <ymax>656.027180783818</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>70.9594882729211</xmin>
+        <ymin>328.3407079646018</ymin>
+        <xmax>333.87348969438517</xmax>
+        <ymax>583.20796460177</ymax>
+    </bndbox>
+</object>
+</annotation>

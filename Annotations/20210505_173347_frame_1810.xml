@@ -1,0 +1,147 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20210505_173347_frame_1810.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/20210505_173347_frame_1810.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>417.7867310325164</xmin>
+        <ymin>272.28945209752374</ymin>
+        <xmax>594.5123474875945</xmax>
+        <ymax>566.6239972330218</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>813.556813593888</xmin>
+        <ymin>336.47655584105297</ymin>
+        <xmax>843.3148091993568</xmax>
+        <ymax>388.3574090171699</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>839.3325833162233</xmin>
+        <ymin>306.9411237515397</ymin>
+        <xmax>992.6248196443483</xmax>
+        <ymax>412.7087362088151</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1152.452296819788</xmin>
+        <ymin>225.19786432160805</ymin>
+        <xmax>1255.5759717314488</xmax>
+        <ymax>574.3435929648242</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1116.268551236749</xmin>
+        <ymin>324.695351758794</ymin>
+        <xmax>1280</xmax>
+        <ymax>608.7154522613066</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>442.3462897526502</xmin>
+        <ymin>417.86118090452266</ymin>
+        <xmax>587.0812720848057</xmax>
+        <ymax>630.4239949748744</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>654.9257950530035</xmin>
+        <ymin>358.16268844221105</ymin>
+        <xmax>727.2932862190812</xmax>
+        <ymax>473.94158291457285</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>713.7243816254417</xmin>
+        <ymin>329.2179648241206</ymin>
+        <xmax>761.6678445229682</xmax>
+        <ymax>417.8611809045226</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>667.5901060070671</xmin>
+        <ymin>302.98680904522615</ymin>
+        <xmax>720.0565371024735</xmax>
+        <ymax>435.9516331658292</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>701.0600706713781</xmin>
+        <ymin>312.0320351758794</ymin>
+        <xmax>784.2826855123675</xmax>
+        <ymax>389.8209798994975</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>163.73144876325088</xmin>
+        <ymin>380.77575376884425</ymin>
+        <xmax>284.0424028268551</xmax>
+        <ymax>478.4641959798995</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>168.25441696113074</xmin>
+        <ymin>331.9315326633166</ymin>
+        <xmax>238.81272084805653</xmax>
+        <ymax>458.56469849246236</ymax>
+    </bndbox>
+</object>
+</annotation>

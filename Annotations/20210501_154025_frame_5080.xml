@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20210501_154025_frame_5080.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/20210501_154025_frame_5080.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>493.6522582630387</xmin>
+        <ymin>296.96142009754277</ymin>
+        <xmax>554.5159010600706</xmax>
+        <ymax>350.0502512562814</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1007.3143768310547</xmin>
+        <ymin>276.4452624320984</ymin>
+        <xmax>1280</xmax>
+        <ymax>417.2731876373291</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>341.13136291503906</xmin>
+        <ymin>310.2683901786804</ymin>
+        <xmax>502.1717071533203</xmax>
+        <ymax>418.3487319946289</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>782.5302808781815</xmin>
+        <ymin>315.678391959799</ymin>
+        <xmax>816.6713636418534</xmax>
+        <ymax>362.58975394407116</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>74.71455297032007</xmin>
+        <ymin>351.85929648241205</ymin>
+        <xmax>179.10954063604242</xmax>
+        <ymax>517.2655382707492</ymax>
+    </bndbox>
+</object>
+</annotation>

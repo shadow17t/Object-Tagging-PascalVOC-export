@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20210501_150607_frame_5410.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/20210501_150607_frame_5410.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>204.45964813232422</xmin>
+        <ymin>280.8866786956787</ymin>
+        <xmax>364.7352981567383</xmax>
+        <ymax>579.622641509434</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>905.3260803222656</xmin>
+        <ymin>249.07297970213986</ymin>
+        <xmax>1280</xmax>
+        <ymax>651.3553011552344</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>460.1840056617127</xmin>
+        <ymin>339.62264150943395</ymin>
+        <xmax>545.3361641896673</xmax>
+        <ymax>397.31163024902344</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>588.2311630249023</xmin>
+        <ymin>306.43431186676025</ymin>
+        <xmax>651.4635467529297</xmax>
+        <ymax>406.53679847717285</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>478.3014861995753</xmin>
+        <ymin>304.6698113207547</ymin>
+        <xmax>515.4423213021938</xmax>
+        <ymax>385.2735849056604</ymax>
+    </bndbox>
+</object>
+</annotation>

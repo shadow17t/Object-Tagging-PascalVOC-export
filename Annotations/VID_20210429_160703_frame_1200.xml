@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>VID_20210429_160703_frame_1200.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/VID_20210429_160703_frame_1200.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1020.3816254416961</xmin>
+        <ymin>406.1023869346734</ymin>
+        <xmax>1109.9363957597172</xmax>
+        <ymax>538.1626884422111</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>859.3639575971731</xmin>
+        <ymin>388.01193467336685</ymin>
+        <xmax>920.8763250883392</xmax>
+        <ymax>430.5244974874372</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>693.8233215547704</xmin>
+        <ymin>371.73052763819095</ymin>
+        <xmax>742.6713780918728</xmax>
+        <ymax>422.38379396984925</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>324.695351758794</ymin>
+        <xmax>253.2862190812721</xmax>
+        <ymax>454.0420854271357</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>23.519434628975265</xmin>
+        <ymin>302.0822864321608</ymin>
+        <xmax>326.5583038869258</xmax>
+        <ymax>449.51947236180905</ymax>
+    </bndbox>
+</object>
+</annotation>

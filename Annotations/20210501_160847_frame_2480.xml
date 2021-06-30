@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20210501_160847_frame_2480.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/20210501_160847_frame_2480.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>320.21993127147766</xmin>
+        <ymin>328.5055012224939</ymin>
+        <xmax>434.58419243986253</xmax>
+        <ymax>428.84779951100245</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>391.4776632302405</xmin>
+        <ymin>332.0262836185819</ymin>
+        <xmax>427.5463917525773</xmax>
+        <ymax>446.4517114914425</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>825.1821305841925</xmin>
+        <ymin>282.73533007334964</ymin>
+        <xmax>1058.3092783505156</xmax>
+        <ymax>431.48838630806847</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>359.312347188264</ymin>
+        <xmax>116.12371134020619</xmax>
+        <ymax>477.25855745721265</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>48.38487972508591</xmin>
+        <ymin>353.15097799511</ymin>
+        <xmax>198.81786941580756</xmax>
+        <ymax>439.4101466992665</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>453.9381443298969</xmin>
+        <ymin>346.98960880195597</ymin>
+        <xmax>511.12027491408935</xmax>
+        <ymax>392.7597799511002</ymax>
+    </bndbox>
+</object>
+</annotation>

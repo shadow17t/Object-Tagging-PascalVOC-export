@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20210501_154632_frame_1880.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/20210501_154632_frame_1880.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1174.4329896907216</xmin>
+        <ymin>302.0996332518337</ymin>
+        <xmax>1223.6975945017182</xmax>
+        <ymax>411.24388753056235</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>972.9759450171821</xmin>
+        <ymin>293.29767726161367</ymin>
+        <xmax>1012.5635738831614</xmax>
+        <ymax>383.07762836185816</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>608.7697594501718</xmin>
+        <ymin>282.73533007334964</ymin>
+        <xmax>646.5979381443299</xmax>
+        <ymax>385.7182151589242</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>289.4295532646048</xmin>
+        <ymin>259.8502444987775</ymin>
+        <xmax>574.4604810996564</xmax>
+        <ymax>506.3050122249389</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>57.182130584192436</xmin>
+        <ymin>257.2096577017115</ymin>
+        <xmax>219.05154639175257</xmax>
+        <ymax>638.3343520782396</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,103 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>VID_20210510_171657_frame_8820.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/VID_20210510_171657_frame_8820.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>930.7491408934708</xmin>
+        <ymin>212.31968215158923</ymin>
+        <xmax>1047.7525773195875</xmax>
+        <ymax>693.7866748166259</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>868.2886597938144</xmin>
+        <ymin>199.11674816625916</ymin>
+        <xmax>958.020618556701</xmax>
+        <ymax>611.9284841075794</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>661.553264604811</xmin>
+        <ymin>276.57396088019556</ymin>
+        <xmax>715.2164948453609</xmax>
+        <ymax>453.49327628361857</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>694.9828178694158</xmin>
+        <ymin>284.4957212713936</ymin>
+        <xmax>937.7869415807561</xmax>
+        <ymax>523.908924205379</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>421.38831615120273</xmin>
+        <ymin>293.29767726161367</ymin>
+        <xmax>473.29209621993124</xmax>
+        <ymax>343.46882640586796</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>40.46735395189003</xmin>
+        <ymin>261.6106356968215</ymin>
+        <xmax>112.60481099656357</xmax>
+        <ymax>373.3954767726161</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>173.30584192439864</xmin>
+        <ymin>265.13141809290954</ymin>
+        <xmax>237.5257731958763</xmax>
+        <ymax>479.01894865525674</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>365.9656357388316</xmin>
+        <ymin>282.73533007334964</ymin>
+        <xmax>430.1855670103093</xmax>
+        <ymax>393.63997555012224</ymax>
+    </bndbox>
+</object>
+</annotation>

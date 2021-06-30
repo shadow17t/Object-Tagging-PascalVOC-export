@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20210505_165907_frame_16770.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/20210505_165907_frame_16770.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>561.1508178710938</xmin>
+        <ymin>322.9885196685791</ymin>
+        <xmax>607.6119232177734</xmax>
+        <ymax>414.4456672668457</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>655.0106609808103</xmin>
+        <ymin>301.03350189633375</ymin>
+        <xmax>721.4214641080313</xmax>
+        <ymax>363.8400758533502</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>520.3695806680881</xmin>
+        <ymin>339.26359039190896</ymin>
+        <xmax>587.6901208244492</xmax>
+        <ymax>414.8135271807838</ymax>
+    </bndbox>
+</object>
+</annotation>

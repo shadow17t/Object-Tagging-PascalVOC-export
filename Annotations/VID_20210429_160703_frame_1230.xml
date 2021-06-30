@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>VID_20210429_160703_frame_1230.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/VID_20210429_160703_frame_1230.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>901.9996328185388</xmin>
+        <ymin>384.6690620489456</ymin>
+        <xmax>962.2539968322106</xmax>
+        <ymax>436.22918739989774</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>969.6246337890625</xmin>
+        <ymin>407.35394954681396</ymin>
+        <xmax>1002.335205078125</xmax>
+        <ymax>479.54957485198975</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>314.7456030150754</ymin>
+        <xmax>151.06713780918727</xmax>
+        <ymax>470.3234924623116</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>13.568904593639576</xmin>
+        <ymin>284.8963567839196</ymin>
+        <xmax>258.71378091872793</xmax>
+        <ymax>450.4239949748744</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>726.3886925795053</xmin>
+        <ymin>373.5395728643216</ymin>
+        <xmax>769.809187279152</xmax>
+        <ymax>416.9566582914573</ymax>
+    </bndbox>
+</object>
+</annotation>

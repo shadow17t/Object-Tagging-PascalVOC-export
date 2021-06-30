@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20210501_150607_frame_7290.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/20210501_150607_frame_7290.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>986.5507507324219</xmin>
+        <ymin>291.48951627501293</ymin>
+        <xmax>1280</xmax>
+        <ymax>490.0551448036079</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>871.1236749116607</xmin>
+        <ymin>312.93655778894475</ymin>
+        <xmax>969.7243816254417</xmax>
+        <ymax>382.5847989949749</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>660.3533568904594</xmin>
+        <ymin>306.60489949748745</ymin>
+        <xmax>702.86925795053</xmax>
+        <ymax>356.3536432160804</ymax>
+    </bndbox>
+</object>
+</annotation>
