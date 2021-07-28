@@ -41,25 +41,31 @@ def xml_to_csv_train(path):
         for member in root.findall('object'):
             width=int(root.find('size')[0].text)
             height=int(root.find('size')[1].text)
+            
             xmin=int(member[4][0].text)
             ymin=int(member[4][1].text)
             xmax=int(member[4][2].text)
             ymax=int(member[4][3].text)
+            
             xminrel=float(xmin/width)
             yminrel=float(ymin/height)
             xmaxrel=float(xmax/width)
             ymaxrel=float(ymax/height)
-            value = ('TRAIN',
-                    root_path.append(root.find('filename').text),
-                    member[0].text,
-                    xminrel,
-                    yminrel,
-                    ',,',
-                    xmaxrel,
-                    ymaxrel,
-                    ",,"
-                    )
-            xml_list.append(value)
+
+            type='TRAIN'
+            img_path=root_path.append(root.find('filename').text)
+            label=member[0].text
+            # value = ('TRAIN',
+            #         root_path.append(root.find('filename').text),
+            #         member[0].text,
+            #         xminrel,
+            #         yminrel,
+            #         ',,',
+            #         xmaxrel,
+            #         ymaxrel,
+            #         ",,"
+            #         )
+            xml_list.append(type,img_path,label,xminrel,yminrel,',,',xmaxrel,ymaxrel,',,')
     xml_df = pd.DataFrame(xml_list)
     return xml_df
 
