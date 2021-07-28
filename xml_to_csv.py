@@ -1,6 +1,6 @@
 import os
 import glob
-from numpy import append
+from numpy import append, floor
 import pandas as pd
 import xml.etree.ElementTree as ET
 
@@ -10,8 +10,9 @@ import xml.etree.ElementTree as ET
 # 3rd col= label
 # 4th col= bounding box(2 titik: xmin, ymin,, , xmax, ymax,, / 4titik: xmin, ymin, xmax, ymin, xmax, ymax, xmin, ymax)
 
-root = r"/content/Object-Tagging-PascalVOC-export" #root directory path
-root_path = root +'/Annotations/' #input folder
+# root = r"/content/Object-Tagging-PascalVOC-export" #root directory path
+# root_path = root +'/Annotations/' #input folder
+img_path=os.path.join(os.getcwd(), 'Object-Tagging-PascalVOC-export/Annotations/')
 
 def xml_to_csv(path):
     xml_list = []
@@ -42,41 +43,42 @@ def xml_to_csv_train(path):
             width=int(root.find('size')[0].text)
             height=int(root.find('size')[1].text)
             
-            xmin=int(member[4][0].text)
-            ymin=int(member[4][1].text)
-            xmax=int(member[4][2].text)
-            ymax=int(member[4][3].text)
+            xmin=int(float(member[4][0].text))
+            ymin=int(float(member[4][1].text))
+            xmax=int(float(member[4][2].text))
+            ymax=int(float(member[4][3].text))
             
             xminrel=float(xmin/width)
             yminrel=float(ymin/height)
             xmaxrel=float(xmax/width)
+            if xmaxrel > 1:
+              xmaxrel=floor(xmaxrel)
             ymaxrel=float(ymax/height)
+            if ymaxrel > 1:
+              ymaxrel=floor(ymaxrel)
 
-            type='TRAIN'
-            img_path=root_path.append(root.find('filename').text)
+            tipe='TRAIN'
+            image_path=root.find('filename').text
             label=member[0].text
-            # value = ('TRAIN',
-            #         root_path.append(root.find('filename').text),
-            #         member[0].text,
-            #         xminrel,
-            #         yminrel,
-            #         ',,',
-            #         xmaxrel,
-            #         ymaxrel,
-            #         ",,"
-            #         )
-            xml_list.append(type,img_path,label,xminrel,yminrel,',,',xmaxrel,ymaxrel,',,')
+            bbox=str(xminrel)+','+str(yminrel)+',,,'+str(xmaxrel)+','+str(ymaxrel)+',,'
+            value = (tipe,
+                    img_path+(image_path),
+                    label,
+                    bbox
+                    )
+            xml_list.append(value)
     xml_df = pd.DataFrame(xml_list)
     return xml_df
 
 
 def main():
-    for folder in ['train']:#,'test']:
+    # for folder in ['train']:#,'test']:
         # image_path = os.path.join(os.getcwd(), ('images/' + folder))
-        image_path = os.path.join(os.getcwd(), 'Annotations')
-        xml_df = xml_to_csv_train(image_path)
-        xml_df.to_csv((folder + '_labels.csv'), index=None)
-        print('Successfully converted xml to csv.')
+    image_path = os.path.join(os.getcwd(), 'Object-Tagging-PascalVOC-export/Annotations')
+    print(image_path)
+    xml_df = xml_to_csv_train(image_path)
+    xml_df.to_csv(( 'train_labels.csv'), index=None)
+    print('Successfully converted xml to csv.')
 
 
 main()
