@@ -60,13 +60,19 @@ def xml_to_csv_train(path):
                 data_type='TEST'
             
             label=member[0].text
-            # bbox=str(xminrel)+','+str(yminrel)+',,,'+str(xmaxrel)+','+str(ymaxrel)+',,'
-            value = (data_type,
-                    img_dir+(image_filename),
-                    label,
-                    # bbox
-                    xminrel,yminrel,'','',xmaxrel,ymaxrel,'',''
-                    )
+            
+            if data_type=='TEST':
+                value = (data_type,
+                        img_dir+(image_filename),
+                        '',
+                        '','','','','','','',''
+                        )
+            else:
+                value = (data_type,
+                        img_dir+(image_filename),
+                        label,
+                        xminrel,yminrel,'','',xmaxrel,ymaxrel,'',''
+                        )
             xml_list.append(value)
     xml_df = pd.DataFrame(xml_list)
     return xml_df
