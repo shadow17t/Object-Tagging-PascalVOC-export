@@ -61,14 +61,19 @@ def xml_to_csv_train(path):
             
             label=member[0].text
             
-            if data_type=='TEST':
-                value = (data_type,
-                        img_dir+(image_filename),
-                        '',
-                        '','','','','','','',''
-                        )
-            else:
-                value = (data_type,
+#             if data_type=='TEST':
+#                 value = (data_type,
+#                         img_dir+(image_filename),
+#                         '',
+#                         '','','','','','','',''
+#                         )
+#             else:
+#                 value = (data_type,
+#                         img_dir+(image_filename),
+#                         label,
+#                         xminrel,yminrel,'','',xmaxrel,ymaxrel,'',''
+#                         )
+            value = (data_type,
                         img_dir+(image_filename),
                         label,
                         xminrel,yminrel,'','',xmaxrel,ymaxrel,'',''
