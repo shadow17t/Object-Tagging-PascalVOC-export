@@ -12,26 +12,15 @@
     </size>
     <segmented>0</segmented>
     <object>
-    <name>person</name>
+    <name>motorcycle</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>756.8849069607168</xmin>
-        <ymin>306.25919117647055</ymin>
-        <xmax>803.6388697450035</xmax>
-        <ymax>368.90624999999994</ymax>
-    </bndbox>
-</object><object>
-    <name>person</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>769.2350103376981</xmin>
-        <ymin>305.29411764705884</ymin>
-        <xmax>792.1709166092351</xmax>
-        <ymax>352.94117647058823</ymax>
+        <xmin>771.6792738275341</xmin>
+        <ymin>322.0766129032258</ymin>
+        <xmax>792.0121028744327</xmax>
+        <ymax>363.68951612903226</ymax>
     </bndbox>
 </object>
 </annotation>

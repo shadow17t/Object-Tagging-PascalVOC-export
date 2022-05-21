@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>VID_20210429_120705_frame_120.jpg</filename>
+    <path>Object-Tagging-PascalVOC-export/Annotations/VID_20210429_120705_frame_120.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1391.5939535403013</xmin>
+        <ymin>232.87589576852602</ymin>
+        <xmax>1582.5633154259403</xmax>
+        <ymax>579.8951521219043</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1365.5516052246094</xmin>
+        <ymin>392.2394013404846</ymin>
+        <xmax>1565.0269317626953</xmax>
+        <ymax>635.7161092758179</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1003.4689178818112</xmin>
+        <ymin>330.73158253751706</ymin>
+        <xmax>1041.7805065234074</xmax>
+        <ymax>416.18860845839015</ymax>
+    </bndbox>
+</object><object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1311.435149654643</xmin>
+        <ymin>363.1463165075034</ymin>
+        <xmax>1342.3791250959323</xmax>
+        <ymax>411.76841746248294</ymax>
+    </bndbox>
+</object><object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1332.0644666155026</xmin>
+        <ymin>310.10402455661665</ymin>
+        <xmax>1367.4290099769762</xmax>
+        <ymax>416.1886084583902</ymax>
+    </bndbox>
+</object>
+</annotation>
