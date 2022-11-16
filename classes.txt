@@ -1,1 +1,1 @@
-["car", "motorcycle", "person", "other vehicles"]
+["car", "motorcycle", "other vehicles", "person"]
