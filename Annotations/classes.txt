@@ -1,4 +1,4 @@
 car
 motorcycle
-other vehicle
+other vehicles
 person

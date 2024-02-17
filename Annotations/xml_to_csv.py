@@ -40,9 +40,10 @@ def main():
     #     xml_df = xml_to_csv(image_path)
     #     xml_df.to_csv('labels_{}.csv'.format(ds), index=None)
     #     print('Successfully converted xml to csv.')
-    image_path = os.path.join(os.getcwd(), 'tagging/object_detection/Object-Tagging-PascalVOC-export/Annotations') #nama folder
-    xml_df = xml_to_csv(image_path) 
-    xml_df.to_csv('label.csv', index=None) #nama output csv
+    # image_path = os.path.join(os.getcwd(), 'tagging/object_detection/Object-Tagging-PascalVOC-export/Annotations') #nama folder
+    xml_files = os.path.join(r"C:\\Users\\62852\\Documents\\GitHub\\Object-Tagging-PascalVOC-export\\Annotations") #nama folder
+    xml_df = xml_to_csv(xml_files) 
+    xml_df.to_csv('labelfiles.csv', index=None) #nama output csv
     print('Successfully converted xml to csv.')
 
 main()
